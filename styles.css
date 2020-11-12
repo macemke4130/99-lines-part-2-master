@@ -1,0 +1,11 @@
+body {
+    background-color: darkblue;
+}
+
+button {
+    font-size: 2rem;
+}
+
+h1, p {
+    color: white;
+}
