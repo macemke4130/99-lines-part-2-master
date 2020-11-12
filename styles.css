@@ -6,6 +6,8 @@ button {
     font-size: 2rem;
 }
 
-h1, p {
+h3, p {
+    font-family: monospace, sans-serif;
+    font-weight: 100;
     color: white;
 }
